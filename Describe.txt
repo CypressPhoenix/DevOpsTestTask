@@ -1,0 +1,3 @@
+I chose official docker image in this task from Docker Hub
+This Docker config work in docker Swarm but i think use K8s is better chose, because Swarm is not supported from Docker inc
+Log file from NGINX saved in dir Logs/nginx
