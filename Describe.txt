@@ -10,4 +10,4 @@ All traffic goes from Elastic Load Balancer. And if under high load for 1 server
 And for high availability we scale in other availability zone.
 We can use RDS because this is very user-friendly. RDS we replicate for higher availability.
 And all of this we Back up in S3 bucket.
-
+Thanks!
